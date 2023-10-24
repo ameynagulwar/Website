@@ -5,6 +5,8 @@ import Footer from './components/Footer';
 import Banner from './components/Banner';
 import MobileBody from './components/MobileBody';
 import Corporate from './components/Corporate';
+import ContactUs from './components/ContactUs';
+import India from './components/India';
 
 function App() {
 
@@ -18,7 +20,11 @@ function App() {
 
       <Footer/> */}
 
-      <Corporate/>
+      {/* <Corporate/> */}
+
+      {/* <ContactUs/> */}
+
+      <India/>
     </>
   );
 }
